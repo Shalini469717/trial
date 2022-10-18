@@ -1,0 +1,120 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+div
+{
+    margin: 0px;
+}
+.parallax1{
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    background-position: center;
+    margin: 0px;
+    height: 1000px;
+    text-align: center;
+    align-content: center;
+}
+#bg1{
+    margin: 0px;
+    background-image: url(https://wallpaper.dog/large/20414.jpg);
+    z-index: 10;}
+
+#top_header{
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+}
+#header
+{
+    text-decoration: none;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    margin: 0px;
+}
+#menu1
+{
+    list-style-type: none;
+    margin-top: 30px;
+    margin: 0px;
+}
+.menu
+{
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    font-size: 30px;
+    color: antiquewhite;
+}
+.li1{
+    display: inline;
+}
+#left
+{
+    margin-left: 10px;
+}
+#right
+{
+    margin-left: 1850px;
+}
+h1{
+    background-image: url(https://images.ctfassets.net/tbduj203nkkk/5x1meX3eJUuEI4q2G4ySoE/de9ce7aade9cf5bac063231fbbdf3cf2/LightLogoWhite.png?w=400&fm=webp&q=85);
+    position: relative;
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position: center;
+    z-index: 9;
+    height: 650px;
+    color: antiquewhite;
+    background-attachment: fixed;
+    margin: 300px;
+}
+/* feBlend4 */
+#bg2
+{
+    background-image: url(https://wallpaperaccess.com/full/41079.jpg);
+    z-index: 10;
+    margin: 0px;
+}
+#quote
+{
+    margin-top: 0px;
+    padding-top: 450px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: larger;
+    font-size: 50px;
+    color: antiquewhite;
+}
+
+#bg3
+{
+    background-image: url(https://media.gq.com/photos/5e31e42701a90500091d5a65/master/w_1600%2Cc_limit/LightII.2.jpg);
+    z-index: 10;
+}
+
+#bg4
+{
+    background-image: url(https://www.digitaltrends.com/wp-content/uploads/2019/09/light-ii-phone-feature.jpg?p=1);
+    z-index: 10;
+}
+button{
+    background:transparent;
+    padding: 10px;
+    margin-top: 550px;
+    background-attachment: scroll;
+    color: gainsboro;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-width: 5px;
+    border-radius: 5px;
+    z-index: 10px;
+    font-size: 30px;
+    border-color:gainsboro;
+}
